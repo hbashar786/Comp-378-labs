@@ -3,3 +3,14 @@ MNIST/
 m05-sst2-checkpoint/
 data/
 *.pth
+.venv-tf/
+.venv-tf/
+models/
+models/
+data/
+cifar10_subset/
+.venv-tf/
+models/
+data/
+cifar10_subset/
+.venv-tf/
